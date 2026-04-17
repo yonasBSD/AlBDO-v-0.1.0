@@ -59,7 +59,7 @@ rayon      = { version = "1" }
 
 # Caching / collections
 once_cell  = { version = "1" }
-lru        = { version = "0.12" }
+lru        = { version = "0.16" }
 
 # Error handling
 thiserror  = { version = "1" }
